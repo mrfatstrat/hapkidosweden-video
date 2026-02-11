@@ -15,31 +15,23 @@ Lugn, cinematisk start med mjuka toner (piano eller koreanskt stränginstrument)
 
 ## INTRO — Hook (0:00–0:05)
 
-### Scen 1 — Öppningstekniken (0:00–0:03)
+### Scen 1 — Öppningsteknik + titel (0:00–0:05)
 
-**Motiv:** En vuxen utövare (svart bälte) utför en hög rund spark (dollyo chagi) eller ett spektakulärt kast (ipp-eo chigi) mot en träningspartner. Filmad i slowmotion.
+**Motiv:** En vuxen utövare (svart bälte) utför en hög rund spark (dollyo chagi/pande dollyo) eller ett spektakulärt kast (ipp-eo chigi) mot en träningspartner. Filmad i slowmotion. Tekniken fyller hela de första 5 sekunderna — välj en rörelse med tillräcklig visuell kraft att bära tiden.
 
 **Kamera:** Låg vinkel (kameran nära golvet, riktad uppåt). Fångar hela rörelsen från start till slut. Bakgrunden ska vara ren — helst en dojang med ljus vägg eller mörk vägg.
 
 **Slowmotion:** Filma i 120 fps om möjligt, spela upp i 25 %. Rörelsens kraft och precision ska synas.
 
-**Ljud:** Tyst i 0,5 s, sedan smyger musiken igång — en enda djup ton, nästan som ett andetag.
+**Ljud:** Musiken smyger igång direkt — en enda djup ton, nästan som ett andetag. En kort koreansk strängsound (gayageum eller liknande) kan läggas som accent.
 
-**Redigering:** Svart skärm (0,3 s) → fade in till slowmo-tekniken. Eventuellt en mycket subtil linsflare eller ljusläcka i orange.
-
----
-
-### Scen 2 — Titelskylt (0:03–0:05)
-
-**Motiv:** Klipp till svart skärm (eller kraftig mörkläggning av slowmo-klippet).
-
-**Textöverlägg:**
+**Textöverlägg (0:02–0:04):**
 ```
 합기도
 ```
-Koreanska tecken, centrerade, stort (fyller ca 40 % av skärmbredden). Vit text med en subtil orange glöd/skugga. Tecknen animeras in — antingen fade eller en snabb "brush stroke"-effekt som om de skrivs med pensel.
+Koreanska tecken, centrerade, stort (fyller ca 40 % av skärmbredden). Vit text med en subtil orange glöd/skugga. Tecknen animeras in *över slowmotion-actionklippet* — antingen fade eller en snabb "brush stroke"-effekt som om de skrivs med pensel. Texten ligger över den levande bilden, inte på svart skärm — det håller energin uppe.
 
-**Musik:** Fortfarande låg, stämningsfull. En kort koreansk strängsound (gayageum eller liknande) kan läggas som accent.
+**Redigering:** Ingen svart skärm, ingen fade-in. Första framen är action. Slowmo-tekniken rullar oavbrutet medan 합기도-texten poppar in och tonas ut. Eventuellt en mycket subtil linsflare eller ljusläcka i orange.
 
 **Övergång till nästa scen:** Texten 합기도 tonas ut samtidigt som nästa bild tonas in (crossfade, ca 0,5 s).
 
@@ -47,7 +39,7 @@ Koreanska tecken, centrerade, stort (fyller ca 40 % av skärmbredden). Vit text 
 
 ## AKT 1 — Ursprung & filosofi (0:05–0:20)
 
-### Scen 3 — Bukning/respekt (0:05–0:08)
+### Scen 2 — Bukning/respekt (0:05–0:08)
 
 **Motiv:** En rad utövare (blandade åldrar, blandade bältesfärger) i en dojang, filmade framifrån. De står i charyeot (uppmärksamhet) och utför en gemensam bukning (kyeongnye). Rörelsen ska vara synkroniserad och vacker.
 
@@ -62,11 +54,11 @@ Placering: Nedre tredjedelen av bilden. "Hap · Ki · Do" i större stil, "Harmo
 
 **Musik:** Lugn, öppen. Piano eller akustisk gitarr med lätt reverb.
 
-**Redigering:** Mjukt klipp (kort crossfade) från scen 2.
+**Redigering:** Mjukt klipp (kort crossfade) från föregående scen.
 
 ---
 
-### Scen 4 — Lugn träningsbild (0:08–0:12)
+### Scen 3 — Lugn träningsbild (0:08–0:12)
 
 **Motiv:** Närbild på händer som knyter ett vitt bälte runt en dobok (dräkt). Alternativ: händer som viker en dobok omsorgsfullt, eller en barnhand som sträcker sig mot ett bälte.
 
@@ -80,7 +72,7 @@ Placering: Nedre tredjedelen av bilden. "Hap · Ki · Do" i större stil, "Harmo
 
 ---
 
-### Scen 5 — Filosofi/mångfald (0:12–0:16)
+### Scen 4 — Mångfald (0:12–0:16)
 
 **Motiv:** Montage av tre snabba bilder (ca 1,3 s vardera):
 1. Ett barn (6–8 år) i svart dobok, fokuserat ansikte, utför en grundteknik med full koncentration.
@@ -91,9 +83,9 @@ Placering: Nedre tredjedelen av bilden. "Hap · Ki · Do" i större stil, "Harmo
 
 **Textöverlägg (0:13–0:16):**
 ```
-En komplett koreansk kampkonst
+För alla åldrar, från nybörjare till avancerad
 ```
-Placering: Centrerad eller nedre tredjedel. Vit text, ren sans-serif.
+Placering: Centrerad eller nedre tredjedel. Vit text, ren sans-serif. Placerad tidigt — innan actionsekvenserna i akt 2 — för att ge nybörjare en trygg, inbjudande känsla.
 
 **Musik:** Börjar sakta bygga — ett lätt trumkomp smyger in under melodin.
 
@@ -101,7 +93,7 @@ Placering: Centrerad eller nedre tredjedel. Vit text, ren sans-serif.
 
 ---
 
-### Scen 6 — Hyung / Form (0:16–0:22)
+### Scen 5 — Hyung / Form (0:16–0:20)
 
 **Motiv:** En ensam utövare utför en sekvens ur en hyung (form/mönster) i en tom eller halvtom dojang. Rörelserna ska vara flytande, precisa och vackra — som en koreografi. Välj en sekvens med tydliga, visuella rörelser (gärna med handtekniker och ställningar som ser bra ut på film). Om möjligt: filma i silhuett mot ett fönster för maximal visuell effekt.
 
@@ -109,7 +101,7 @@ Placering: Centrerad eller nedre tredjedel. Vit text, ren sans-serif.
 
 **Kamera:** Halvtotalbild till helbild, stativ. Utövaren ska ha utrymme runt sig. Filma rakt framifrån eller svagt diagonalt (30°). Eventuellt slowmotion (120fps) på en enstaka rörelse mitt i sekvensen.
 
-**Textöverlägg (0:18–0:22):**
+**Textöverlägg (0:17–0:20):**
 ```
 Kropp. Sinne. Gemenskap.
 ```
@@ -123,9 +115,9 @@ Placering: Centrerad. Varje ord kan animeras in sekventiellt (0,3 s mellan varje
 
 ---
 
-## AKT 2 — Träningen: energi, mångfald, gemenskap (0:20–0:40)
+## AKT 2 — Träningen: energi och gemenskap (0:20–0:40)
 
-### Scen 7 — Energiexplosion (0:20–0:24)
+### Scen 6 — Energiexplosion (0:20–0:24)
 
 **Motiv:** Snabbt montage (4–5 klipp à 0,5–1 s):
 1. En grupp barn springer in i dojangen och ställer upp sig.
@@ -144,7 +136,7 @@ Placering: Centrerad. Varje ord kan animeras in sekventiellt (0,3 s mellan varje
 
 ---
 
-### Scen 8 — Gemenskap och glädje (0:24–0:30)
+### Scen 7 — Gemenskap och glädje (0:24–0:30)
 
 **Motiv:** Blandning av bilder som visar gemenskap:
 1. En instruktör hjälper ett barn att justera en ställning — instruktören ler.
@@ -156,22 +148,22 @@ Placering: Centrerad. Varje ord kan animeras in sekventiellt (0,3 s mellan varje
 
 **Textöverlägg (0:26–0:30):**
 ```
-För alla åldrar. Alla nivåer.
+Bygg styrka och självförtroende
 ```
 Placering: Nedre tredjedel. Vit text. Eventuellt en tunn orange linje under texten.
 
 **Musik:** Fortsatt energisk men med en varm underton. Melodin ska kännas hoppfull.
 
-**Redigering:** Något lugnare klipptempo än scen 7. Låt varje bild andas i 1,5–2 s.
+**Redigering:** Något lugnare klipptempo än scen 6. Låt varje bild andas i 1,5–2 s.
 
 ---
 
-### Scen 9 — Träningsvardag (0:30–0:35)
+### Scen 8 — Träningsvardag (0:30–0:35)
 
 **Motiv:** Montage av "vardagliga" träningsmoment som visar att det inte bara är action:
 1. En rad utövare som utför samma spark synkroniserat (filmad från sidan, i rörelse — kameran åker längs raden).
 2. Utövare som stretchar tillsammans — avslappnat, leende.
-3. Någon som dricker vatten ur en flaska under en paus, flämtande men glad.
+3. En partner hjälper en annan med stretching — samarbete, fysisk kontakt, fokus.
 4. Alternativ: andningsövning i grupp med slutna ögon.
 
 **Kamera:** Bild 1: tracking shot (gå sakta längs raden med mobilen). Bild 2-3: halvbild, mjuk känsla.
@@ -184,7 +176,7 @@ Placering: Nedre tredjedel. Vit text. Eventuellt en tunn orange linje under text
 
 ---
 
-### Scen 10 — Femklubbs-montage (0:35–0:40)
+### Scen 9 — Femklubbs-montage (0:35–0:40)
 
 **Motiv:** Snabba klipp från olika dojangar (om material finns från flera klubbar). Visa att det är en nationell rörelse. Varje klipp visar 0,5–1 s av träning i en unik lokal. Om material bara finns från en klubb: visa olika grupper (barngrupp, ungdomsgrupp, vuxengrupp).
 
@@ -200,7 +192,7 @@ Placering: Nedre tredjedel. Vit text. Eventuellt en tunn orange linje under text
 
 ## AKT 3 — Teknisk bredd (0:40–0:52)
 
-### Scen 11 — Teknisk showcase (0:40–0:49)
+### Scen 10 — Teknisk showcase (0:40–0:49)
 
 **Motiv:** En serie tekniker visade i slowmotion (60–120 fps), en teknik per klipp. Sex tekniker som representerar Hapkidos unika bredd — från handtekniker till vapen:
 
@@ -213,7 +205,11 @@ Placering: Nedre tredjedel. Vit text. Eventuellt en tunn orange linje under text
 
 **Kamera:** Varje teknik filmas med en dedikerad vinkel. Använd slowmotion. Ren bakgrund (inget distraherande). Om möjligt: bakgrundsljus som skapar en lätt silhuetteffekt eller rim-light runt utövaren.
 
-**Textöverlägg:** Inget — teknikerna ska tala för sig själva.
+**Textöverlägg (0:43–0:46):**
+```
+En komplett kampkonst
+```
+Centrerad, vit text. Dyker upp mitt i tekniksekvensen — orden bekräftar det tittaren ser: slag, spark, kast, lås, vapen.
 
 **Musik:** Något som drar ner tempot till "episkt slowmo" — kanske tar bort trummorna och låter en bred synth eller stråk ligga under. Varje teknikklipp kan accentueras med en dämpad percussionträff.
 
@@ -221,7 +217,7 @@ Placering: Nedre tredjedel. Vit text. Eventuellt en tunn orange linje under text
 
 ---
 
-### Scen 12 — Återkoppling till gruppen (0:49–0:52)
+### Scen 11 — Återkoppling till gruppen (0:49–0:52)
 
 **Motiv:** Alla utövare i en dojang, stående i en linje, utför en gemensam bukning. Alternativ: en rund cirkel av utövare som alla ler mot kameran. Bilden ska kommunicera: "vi hör ihop."
 
@@ -237,7 +233,7 @@ Placering: Nedre tredjedel. Vit text. Eventuellt en tunn orange linje under text
 
 ## OUTRO — CTA (0:52–0:60)
 
-### Scen 13 — Gruppbild (0:52–0:55)
+### Scen 12 — Gruppbild (0:52–0:55)
 
 **Motiv:** En gruppbild med alla utövare (alla åldrar, alla nivåer) samlade framför eller i dojangen. Alla ler. Alla i svart dobok. Bältesfärgerna bildar en fin visuell kontrast mot de svarta dräkterna. Stilla bild eller minimal rörelse (någon vinkar, ett barn tittar i kameran).
 
@@ -249,7 +245,7 @@ Placering: Nedre tredjedel. Vit text. Eventuellt en tunn orange linje under text
 
 ---
 
-### Scen 14 — CTA-skylt (0:55–0:60)
+### Scen 13 — CTA-skylt (0:55–0:60)
 
 **Motiv:** Mörk/svart bakgrund. Grafik tar över helt.
 
@@ -257,21 +253,15 @@ Placering: Nedre tredjedel. Vit text. Eventuellt en tunn orange linje under text
 
 **0:55–0:57:**
 ```
-Hapkido Sverige
+Nyfiken? Prova Hapkido nu
 ```
-Stor, vit text. Sans-serif (fet vikt). Centrerad vertikalt och horisontellt.
+Stor, vit text. Sans-serif (fet vikt). Centrerad. Direkt tilltal som skapar en impuls att agera.
 
-**0:57–0:58:**
+**0:57–0:60:**
 ```
-WKF/Hanminjok Hapkido
+Hitta en klubb nära dig → hapkidosweden.se
 ```
-Mindre text, placerad direkt under "Hapkido Sverige". Vit, tunnare vikt. Fade in.
-
-**0:58–0:60:**
-```
-hapkidosweden.se
-```
-Orange text, understruken eller med en tunn orange linje under. Stor nog att vara läsbar även på en liten skärm. Pulserar en gång (subtle scale-animation, 100 % → 105 % → 100 %) för att dra ögat dit.
+Vit text med orange URL. Pilen (→) kan animeras in som en slide från vänster. URL:en pulserar en gång (subtle scale-animation, 100 % → 105 % → 100 %) för att dra ögat dit. Stor nog att vara läsbar även på en liten skärm.
 
 **Eventuellt:** Hapkido Sveriges logotyp ovanför texten, om en sådan finns.
 
@@ -312,7 +302,7 @@ Orange text, understruken eller med en tunn orange linje under. Stor nog att var
 - [ ] Närbild: fot i mattan
 - [ ] Silhuettbild vid fönster
 - [ ] Gruppbild (alla åldrar, alla nivåer, alla ler)
-- [ ] Stretching / vattenflaska / andningsövning
+- [ ] Stretching / partnerstretchning / andningsövning
 - [ ] Olika grupper (barn, ungdom, vuxna) om möjligt
 
 ### Tips vid filmning
@@ -326,7 +316,7 @@ Orange text, understruken eller med en tunn orange linje under. Stor nog att var
 
 ### Redigering
 - Klipp i takt med musiken — varje scenövergång bör landa på ett beat.
-- Textöverlägg: använd samma typsnitt genom hela videon. Var konsekvent med placering (nedre tredjedel ELLER centrerat, inte båda blandat).
+- Textöverlägg: använd samma typsnitt genom hela videon. Huvudbudskap centreras, stödjande text i nedre tredjedel — håll denna uppdelning konsekvent.
 - Färggradering: dra ner mättnaden något och höj kontrasten en aning för en modern, cinematisk look. Undvik överdrivna filter.
 - Exportera i högsta möjliga kvalitet (minst 1080p, helst 4K om mobilen klarar det).
 
@@ -336,11 +326,11 @@ Orange text, understruken eller med en tunn orange linje under. Stor nog att var
 
 | Tidskod | Text | Stil |
 |---------|------|------|
-| 0:03–0:05 | 합기도 | Stor, centrerad, vit med orange glöd |
+| 0:02–0:04 | 합기도 | Stor, centrerad, vit med orange glöd, över actionklipp |
 | 0:06–0:08 | Hap · Ki · Do / Harmonins väg | Nedre tredjedel, vit, orange punkter |
-| 0:13–0:16 | En komplett koreansk kampkonst | Centrerad, vit, ren |
-| 0:18–0:22 | Kropp. Sinne. Gemenskap. | Centrerad, sekventiell animation |
-| 0:26–0:30 | För alla åldrar. Alla nivåer. | Nedre tredjedel, vit |
-| 0:55–0:57 | Hapkido Sverige | Centrerad, stor, vit, fet |
-| 0:57–0:58 | WKF/Hanminjok Hapkido | Centrerad, under ovanstående, vit, tunn |
-| 0:58–0:60 | hapkidosweden.se | Centrerad, orange, pulsanimation |
+| 0:13–0:16 | För alla åldrar, från nybörjare till avancerad | Centrerad, vit, ren |
+| 0:17–0:20 | Kropp. Sinne. Gemenskap. | Centrerad, sekventiell animation |
+| 0:26–0:30 | Bygg styrka och självförtroende | Nedre tredjedel, vit |
+| 0:43–0:46 | En komplett kampkonst | Centrerad, vit |
+| 0:55–0:57 | Nyfiken? Prova Hapkido nu | Centrerad, stor, vit, fet |
+| 0:57–0:60 | Hitta en klubb nära dig → hapkidosweden.se | Centrerad, vit + orange URL |

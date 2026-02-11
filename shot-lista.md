@@ -36,7 +36,7 @@
 | S22 | AKT 3 | Köpp/Dan bong/Solfjäder-teknik | Halvbild | 120fps | 16:9 | 2s | MASTE |
 | S31 | AKT 1 | Hyung (form) - solo eller grupp | Helbild | Normal/120fps | Båda | 4s | MASTE |
 | S32 | AKT 2 | Graderingsmoment - nytt bälte | Halvbild | Normal | Båda | 3s | BRA |
-| S33 | AKT 2 | Stretching / vattenpaus | Halvbild | Normal | 16:9 | 2s | BRA |
+| S33 | AKT 2 | Stretching / partnerstretchning | Halvbild | Normal | 16:9 | 2s | BRA |
 | S34 | AKT 3 | Stavform (jang bong hyung) | Helbild | 120fps | 16:9 | 2s | BRA |
 | S35 | AKT 2 | Självförsvar: grepp bryts | Halvbild | Normal | 16:9 | 2s | BRA |
 | S23 | OUTRO | Gruppfoto - alla ler | Vidvinkel | Normal | Båda | 3s | MASTE |
@@ -228,9 +228,9 @@
 
 ---
 
-### AKT 2 (20-40 sekunder) -- Träningen: energi, mångfald, gemenskap
+### AKT 2 (20-40 sekunder) -- Träningen: energi och gemenskap
 
-**Syfte:** Visa Hapkidos bredd -- att alla kan delta. Energin ökar. Fokus på glädje, mångfald i åldrar och gemenskap.
+**Syfte:** Visa Hapkidos bredd -- att alla kan delta. Energin ökar. Fokus på glädje, gemenskap och träningsglädje.
 
 ---
 
@@ -503,7 +503,7 @@
 | Fält | Detalj |
 |------|--------|
 | **Scen/Akt** | OUTRO (55-60s) |
-| **Beskrivning** | Avslutande bild för text-overlay i redigering. Antingen: (A) Tom dojang med vacker belysning, eller (B) Klubbens logo/banderoll i bild, eller (C) Dörren till dojanget (symbolik: "välkommen in"). I redigering läggs text på: webbadress, "Prova på gratis", QR-kod, etc. |
+| **Beskrivning** | Avslutande bild för text-overlay i redigering. Antingen: (A) Tom dojang med vacker belysning, eller (B) Klubbens logo/banderoll i bild, eller (C) Dörren till dojanget (symbolik: "välkommen in"). I redigering läggs text på: "Nyfiken? Prova Hapkido nu", "Hitta en klubb nära dig → hapkidosweden.se", etc. |
 | **Kameravinkel** | Beror på motiv. Vidvinkel för tom dojang, halvbild för logo, helbild för dörr. |
 | **Kamerarörelse** | Statisk |
 | **Hastighet** | Normal |
@@ -584,7 +584,7 @@
 
 | Fält | Detalj |
 |------|--------|
-| **Scen/Akt** | AKT 1 (16-22s) -- Filosofi och skönhet |
+| **Scen/Akt** | AKT 1 (16-20s) -- Filosofi och skönhet |
 | **Beskrivning** | En utövare (eller grupp) utför en sekvens ur en hyung (form/mönster). Rörelserna ska vara flytande, precisa och estetiskt tilltalande. Hyung är en av de vackraste delarna av WKF/Hanminjok Hapkido och visar kampkonstens konstnärliga sida. Välj en sekvens med tydliga, varierade rörelser -- handtekniker, ställningar, vändningar. |
 | **Kameravinkel** | Helbild, rakt framifrån eller 30 grader diagonalt. Utövaren ska ha utrymme runt sig för att rörelserna ska andas. |
 | **Kamerarörelse** | Statisk. Eventuellt långsam panorering om det är en gruppform. |
@@ -616,12 +616,12 @@
 
 ---
 
-#### S33 -- Stretching / vattenpaus / andning
+#### S33 -- Stretching / partnerstretchning / andning
 
 | Fält | Detalj |
 |------|--------|
 | **Scen/Akt** | AKT 2 (träningsvardag) |
-| **Beskrivning** | Korta klipp som visar att träning är mer än bara tekniker: (1) Utövare som stretchar tillsammans, avslappnat och pratande. (2) Någon som dricker vatten ur en flaska under paus -- flämtande men leende. (3) Grupp som gör en andningsövning med slutna ögon. Visar helhetsperspektivet: motion, återhämtning, mindfulness. |
+| **Beskrivning** | Korta klipp som visar att träning är mer än bara tekniker: (1) Utövare som stretchar tillsammans, avslappnat och pratande. (2) En partner hjälper en annan med stretching -- samarbete, fysisk kontakt, fokus. (3) Grupp som gör en andningsövning med slutna ögon. Visar helhetsperspektivet: motion, återhämtning, mindfulness. |
 | **Kameravinkel** | Halvbild, mjuk vinkel. Avslappnat. |
 | **Kamerarörelse** | Statisk eller handhållet med naturlig rörelse |
 | **Hastighet** | Normal |
@@ -630,7 +630,7 @@
 | **Plats** | Dojang |
 | **Klipplängd** | 1-2 sekunder per klipp |
 | **Prioritet** | BRA |
-| **Anmärkning** | Perfekt att fånga spontant under riktiga pauser i träningen. Visar att Hapkido inte bara är hårt -- det finns en omsorg om kroppen. Vattenflaskan ska gärna inte ha synligt varumärke (vänd bort etiketten). |
+| **Anmärkning** | Perfekt att fånga spontant under riktiga pauser i träningen. Visar att Hapkido inte bara är hårt -- det finns en omsorg om kroppen. Partnerstretchning visar samarbete och fysisk omsorg -- fånga genuina ögonblick. |
 
 ---
 
@@ -839,7 +839,7 @@ Dessa shots är optimerade för vertikal video (Instagram Reels, TikTok, YouTube
 | S27 | Svettdroppar (BONUS -- filma sent) |
 | S30 | Vertikal teknik-montage (9:16) |
 | S31 | Hyung (form) - solo eller grupp |
-| S33 | Stretching / vattenpaus / andning (BRA) |
+| S33 | Stretching / partnerstretchning / andning (BRA) |
 
 **Checklista:**
 - [ ] Samtycke från ALLA barns vårdnadshavare
@@ -942,13 +942,13 @@ Dessa shots är optimerade för vertikal video (Instagram Reels, TikTok, YouTube
 | 10-12s | S05 | Fötter på mattan |
 | 12-14s | S06 eller S07 | Dobok-detalj eller meditation |
 | 14-16s | S08 | Dojang-symboler |
-| 16-22s | S31 | Hyung (form) - solo eller grupp |
+| 16-20s | S31 | Hyung (form) - solo eller grupp |
 | 20-23s | S10 | Barn tränar |
 | 23-26s | S11 | Vuxna tränar |
 | 26-29s | S12 | Blandad åldersgrupp |
 | 29-32s | S13 | Instruktör hjälper elev |
 | 32-34s | S14 | High five / glädjemoment |
-| 30-33s | S33 | Stretching / vattenpaus (alt. S32 gradering) |
+| 30-33s | S33 | Stretching / partnerstretchning (alt. S32 gradering) |
 | 33-35s | S15 | Synkroniserad gruppträning |
 | 35-37s | S16 | Barn ler |
 | 37-39s | S32 | Graderingsmoment (alt. S33) |

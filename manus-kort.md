@@ -51,7 +51,7 @@
 | **Bild** | Montage som visar bredden (4–5 snabba klipp, ca 1–1,2 sek vardera): (1) Litet barn (5–7 år) som gör en enkel teknik och ler efteråt. (2) Tonåring mitt i en dynamisk spark. (3) Vuxen kvinna som övar självförsvar med partner. (4) Äldre utövare (40+) som utför ett kontrollerat handleds­lås. (5) Valfritt: graderingsmoment — elev får nytt bälte, stolt leende. |
 | **Kamera** | Blanda närbilder och halvbilder. Minst ett klipp i slowmotion (60fps nedsaktat till 24fps). Rörlig kamera — lätt slide eller follow. |
 | **Tempo** | Fortfarande snabbt men med en micro-paus (0,5 sek längre klipp) på barnets leende — emotionell kontrast. |
-| **Text** | Sek 7–10: **"För alla åldrar. Alla nivåer."** Centrerad, stor vit text. Orden kan animeras in ett i taget synkat med klippen. |
+| **Text** | Sek 7–10: **"För alla åldrar, från nybörjare till avancerad"** Centrerad, stor vit text. Orden kan animeras in ett i taget synkat med klippen. Placerad tidigt för en trygg, inbjudande känsla. |
 | **Musik** | Melodin öppnar upp. Känslan går från energi till värme. |
 
 ---
@@ -63,7 +63,7 @@
 | **Bild** | De mest visuellt imponerande klippen (5–6 klipp, 1–1,5 sek vardera): (1) Spektakulärt kast — kameran följer fallet. (2) Svärdform i slowmotion — svärdet skär genom luften. (3) Sparksekvens i slowmotion — doboken snärtar. (4) Hyung (form) — flytande, vacker sekvens. (5) Köpp/dan bong/solfjäder-teknik. (6) Tight närbild: händer som greppar en handled, kontroll och precision. |
 | **Kamera** | Dynamiskt. Minst ett klipp filmat underifrån (låg vinkel) för dramatik. Ett klipp med snabb kamerarör­else som följer tekniken. |
 | **Tempo** | Snabbast här — klippen kommer slag i slag. Musikens intensitet når sin topp. |
-| **Text** | Ingen text under sek 10–15 — låt bilderna tala. Sek 15–17: kort blink av **합기도** igen, mindre, i hörnet (säker zon), som en påminnelse/branding. |
+| **Text** | Ingen text under sek 10–15 — låt bilderna tala. Sek 15–17: **"Bygg styrka och självförtroende"** — centrerad, vit text, poppar in synkat med en imponerande teknik. |
 | **Musik** | Crescendo. Beatsen blir tätare eller melodin stiger. Toppar runt sek 14–15. |
 
 ---
@@ -75,7 +75,7 @@
 | **Bild** | (1) Sek 17–19: Gruppen står i linje, bugar (bukning). Filmat framifrån, lätt låg vinkel. Lugnt, värdigt. (2) Sek 19–22: Kameran dröjer på en närbild — ett leende ansikte som reser sig ur bukningen och tittar rakt in i kameran. Alternativ: en hand som hjälper en annan utövare upp från mattan. |
 | **Kamera** | Stabilare nu. Lugnare rörelse. Slutbilden kan vara helt still. |
 | **Tempo** | Markant sänkt. Kontrasten mot det snabba montaget skapar emotionell effekt. |
-| **Text** | Sek 18–22 (stannar kvar till sista framen): **"hapkidosweden.se"** — stor, centrerad, vit text med subtil orange understrykning eller glow. Placerad i mitten av bilden. Eventuellt med en liten animerad pil eller puls-effekt för att dra ögat. |
+| **Text** | Sek 18–20: **"Nyfiken? Prova Hapkido nu"** — stor, centrerad, vit text (2 sek = läsbart). Sek 20–22 (stannar kvar till sista framen): **"Hitta en klubb nära dig → hapkidosweden.se"** — vit text med orange URL, centrerad, med subtil puls-effekt. |
 | **Musik** | Landar på ett öppet, varmt ackord. Tystnar mjukt eller cuttar rent på sista framen. |
 | **Sista frame** | CTA-texten stannar kvar minst 2 fulla sekunder. Om plattformen tillåter: lägg till en "Besök profil"-knapp eller länk i bio-hänvisning. |
 

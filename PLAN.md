@@ -10,7 +10,7 @@ Skapa ett komplett manuskript och produktionsunderlag för en promotionvideo fö
 - **Material**: Ny hemsida finns som stilreferens (mörkt tema, orange accenter)
 - **Ljud**: Enbart musik + text, ingen voice-over
 - **Språk**: Helt på svenska
-- **CTA**: "Besök hapkidosweden.se"
+- **CTA**: "Nyfiken? Prova Hapkido nu" → "Hitta en klubb nära dig → hapkidosweden.se"
 - **Utrustning**: Mobilkamera
 - **Utövare**: Barn och vuxna i alla åldrar och nivåer, i svart dobok (inget skydd)
 - **Platser**: Dojangar (träningslokaler) på de olika klubbarna
@@ -66,19 +66,22 @@ Varje shot med vinkel, rörelse, utövare, plats och prioritet.
 ### Dramaturgi (60 sek)
 ```
 INTRO (0-5s)     → Hook: Kraftfull teknik i slowmotion
-AKT 1 (5-22s)    → Ursprung & filosofi: Lugna bilder + hyung (form)
-AKT 2 (22-40s)   → Träningen: Energi, mångfald, gemenskap, gradering
+AKT 1 (5-20s)    → Ursprung & filosofi: Lugna bilder + hyung (form)
+AKT 2 (20-40s)   → Träningen: Energi, gemenskap, gradering
 AKT 3 (40-52s)   → Teknisk bredd: Slag, sparkar, kast, lås, svärd, vapen
 OUTRO (52-60s)    → Gruppbild + CTA: hapkidosweden.se
 ```
 
 ### Budskap genom text (ej voice-over)
 Korta, slagkraftiga textöverlägg som bygger på hemsidans formuleringar:
+- "합기도" (koreanska tecken, över actionklipp)
 - "Hap · Ki · Do — Harmonins väg"
-- "En komplett koreansk kampkonst"
-- "För alla åldrar. Alla nivåer."
+- "För alla åldrar, från nybörjare till avancerad"
 - "Kropp. Sinne. Gemenskap."
-- "hapkidosweden.se"
+- "Bygg styrka och självförtroende"
+- "En komplett kampkonst"
+- "Nyfiken? Prova Hapkido nu"
+- "Hitta en klubb nära dig → hapkidosweden.se"
 
 ### Koreanska inslag (hedra ursprunget)
 - Visa koreanska tecken (합기도) som grafiskt element
@@ -95,5 +98,5 @@ Alla 5 dokument är skapade och uppdaterade med:
 - Utökad vapenträning: svärd, stav, köpp, dan bong, solfjäder
 - Svart dobok (inga skydd)
 - Graderingsmoment (nytt bälte, diplom, applåder)
-- Träningsvardag (stretching, vattenflaska, andningsövning)
+- Träningsvardag (stretching, partnerstretchning, andningsövning)
 - 34 shots totalt (19 MÅSTE, 10 BRA, 3 BONUS, 2 stycken 9:16-specifika)

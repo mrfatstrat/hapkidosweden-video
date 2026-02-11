@@ -228,7 +228,7 @@ Videon ska folja en dramatisk kurva. Har ar strukturen for 60-sekundersversionen
   Grupp, gemenskap, gladje
 
 55-60s: AVSLUT
-  Logotyp + hemsida + 합기도
+  CTA: "Nyfiken? Prova Hapkido nu" → hapkidosweden.se
 ```
 
 ### Overgangar
